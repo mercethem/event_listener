@@ -1,0 +1,29 @@
+# Build directories
+cmake-build-debug/
+build/
+out/
+
+# IDE files
+.idea/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.dll
+*.lib
+*.a
+*.so
+
+# Config files with sensitive data
+config.ini
+
+# OS files
+.DS_Store
+Thumbs.db
+
